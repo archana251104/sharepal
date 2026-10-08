@@ -5,7 +5,7 @@ A responsive recreation of the SharePal Gaming Gadgets rental page for Bangalore
 
 ## 🚀 Live Demo
 
-[View Live Website](YOUR_DEPLOYED_URL)
+[View Live Website](https://archana251104.github.io/sharepal/)
 
 ## 📂 GitHub Repository
 
